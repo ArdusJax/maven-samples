@@ -10,6 +10,8 @@
   <name>Parent</name>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
   <scm>
+    <connection>scm:git:https://github.com/ArdusJax/maven-samples.git</connection>
+    <url>scm:git:https://github.com/ArdusJax/maven-samples.git</url>
     <developerConnection>scm:git:https://github.com/ArdusJax/maven-samples.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
